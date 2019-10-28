@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.10.3)  28 OCT 2019 20:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.10.3)  28 OCT 2019 22:05
 entering extended mode
 **./proyecto_final.tex
 (proyecto_final.tex
@@ -537,30 +537,45 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \mhchem@option@minustextsidebearingleft=\dimen162
 \mhchem@option@minustextsidebearingright=\dimen163
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 9.
+("C:\Users\nuria\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+)
+("C:\Users\nuria\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y"
+\wrapoverhang=\dimen166
+\WF@size=\dimen167
+\c@WF@wrappedlines=\count289
+\WF@box=\box73
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 10.
  (proyecto_final.aux
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `proyecto_final.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
-\AtBeginShipoutBox=\box73
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+\AtBeginShipoutBox=\box74
 
 ("C:\Users\nuria\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
 "
@@ -572,7 +587,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 13.
+Package hyperref Info: Link coloring ON on input line 14.
 
 ("C:\Users\nuria\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -582,33 +597,33 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count289
+\c@section@level=\count290
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
  (proyecto_final.out) (proyecto_final.out)
 \@outlinefile=\write3
 \openout3 = `proyecto_final.out'.
 
 
-Package chemgreek Info: Activating mapping `default' on line 13.
+Package chemgreek Info: Activating mapping `default' on line 14.
 
 
 ("C:\Users\nuria\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen164
-\scratchbox=\box74
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen165
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count291
+\scratchdimen=\dimen168
+\scratchbox=\box75
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen169
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks25
 )
 ("C:\Users\nuria\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
 base.sty"
@@ -625,46 +640,62 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 37.
- ("C:\Users\nuria\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 39.
+("C:\Users\nuria\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 37.
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-\OT1/cmr/m/n/10.95 [[]], el
- []
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
 
 [1
 
 {C:/Users/nuria/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+\OT1/cmr/m/n/10.95 [[]], el
+ []
+
+<Figura1.jpg, id=38, 327.624pt x 298.2342pt>
+File: Figura1.jpg Graphic file (type jpg)
+<use Figura1.jpg>
+Package pdftex.def Info: Figura1.jpg  used on input line 46.
+(pdftex.def)             Requested size: 284.52756pt x 259.0248pt.
+[2 <./Figura1.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 46.
+(hyperref)                removing `\\' on input line 57.
 
-[2] (proyecto_final.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
+
+Underfull \hbox (badness 5217) in paragraph at lines 58--61
+[]$$[][][][][][][][][][][][][][][]$ \OT1/cmr/m/n/10.95 + $[][][][][][]$ + $[][]
+[]$
+ []
+
+(proyecto_final.bbl [3])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
  (proyecto_final.aux
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 55.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `proyecto_final.out' has not changed.
 (rerunfilecheck)             Checksum: 7980BB29EA6F3412E80F0E0CD764DB95;217.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 17131 strings out of 492942
- 307731 string characters out of 3126215
- 397290 words of memory out of 3000000
- 20914 multiletter control sequences out of 15000+200000
- 540740 words of font info for 52 fonts, out of 3000000 for 9000
+ 17271 strings out of 492942
+ 309760 string characters out of 3126215
+ 407928 words of memory out of 3000000
+ 21042 multiletter control sequences out of 15000+200000
+ 541093 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,63p,1188b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,63p,1188b,500s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/nuria/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/nuria/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/nuria/AppData/Local/Programs/MiKTeX 2.9/f
@@ -674,12 +705,13 @@ ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/nuria/AppData
 uria/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ><C:/Users/nuria/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr8.pfb><C:/Users/nuria/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsl12.pfb><C:/Users/nuria/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nuria/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on proyecto_final.pdf (3 pages, 140397 bytes).
+c/amsfonts/cm/cmsl10.pfb><C:/Users/nuria/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/nuria/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nuria/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on proyecto_final.pdf (4 pages, 970650 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
