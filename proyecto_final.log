@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.10.3)  28 OCT 2019 22:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.10.3)  28 OCT 2019 22:13
 entering extended mode
 **./proyecto_final.tex
 (proyecto_final.tex
@@ -664,35 +664,50 @@ File: Figura1.jpg Graphic file (type jpg)
 Package pdftex.def Info: Figura1.jpg  used on input line 46.
 (pdftex.def)             Requested size: 284.52756pt x 259.0248pt.
 [2 <./Figura1.jpg>]
+<Figura2.jpg, id=54, 623.32875pt x 720.6925pt>
+File: Figura2.jpg Graphic file (type jpg)
+<use Figura2.jpg>
+Package pdftex.def Info: Figura2.jpg  used on input line 59.
+(pdftex.def)             Requested size: 284.52756pt x 328.9713pt.
+<Figura3.jpg, id=55, 872.058pt x 654.0435pt>
+File: Figura3.jpg Graphic file (type jpg)
+<use Figura3.jpg>
+Package pdftex.def Info: Figura3.jpg  used on input line 66.
+(pdftex.def)             Requested size: 256.0748pt x 192.05295pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./Figura2.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 57.
+(hyperref)                removing `\\' on input line 72.
 
 
-Underfull \hbox (badness 5217) in paragraph at lines 58--61
+Underfull \hbox (badness 5217) in paragraph at lines 73--76
 []$$[][][][][][][][][][][][][][][]$ \OT1/cmr/m/n/10.95 + $[][][][][][]$ + $[][]
 []$
  []
 
-(proyecto_final.bbl [3])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+[4 <./Figura3.jpg>] (proyecto_final.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
  (proyecto_final.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
 Package rerunfilecheck Info: File `proyecto_final.out' has not changed.
 (rerunfilecheck)             Checksum: 7980BB29EA6F3412E80F0E0CD764DB95;217.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
  ) 
 Here is how much of TeX's memory you used:
- 17271 strings out of 492942
- 309760 string characters out of 3126215
- 407928 words of memory out of 3000000
- 21042 multiletter control sequences out of 15000+200000
+ 17286 strings out of 492942
+ 309942 string characters out of 3126215
+ 407318 words of memory out of 3000000
+ 21052 multiletter control sequences out of 15000+200000
  541093 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,12n,63p,1188b,500s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -709,9 +724,9 @@ c/amsfonts/cm/cmsl10.pfb><C:/Users/nuria/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/nuria/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nuria/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on proyecto_final.pdf (4 pages, 970650 bytes).
+Output written on proyecto_final.pdf (5 pages, 3099915 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 117 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
